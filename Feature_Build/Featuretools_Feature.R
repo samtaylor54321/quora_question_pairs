@@ -10,8 +10,7 @@ library(magrittr)
               write_csv('feature_tools_trans.csv')
  }
  
- 
- apply_ft_trans(train)
+
 
  
  
